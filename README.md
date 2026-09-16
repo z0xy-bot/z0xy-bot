@@ -17,10 +17,11 @@
   </a>
 </p>
 
-<!-- ===================== RACCOON GIF ===================== -->
+<!-- ===================== RACCOON HERO ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="220" alt="raccoon"/>
+  <img src="https://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif" width="240" alt="scheming raccoon"/>
 </p>
+<p align="center"><i>trash panda scheming your next commit</i> 🦝</p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
@@ -106,6 +107,23 @@ const z0xy = {
     <img alt="snake animation" src="https://raw.githubusercontent.com/z0xy-bot/z0xy-bot/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
+
+---
+
+## 🦝 Банда енотов
+
+<p align="center">
+  <img height="150" src="https://media.giphy.com/media/ddk1FDgb2AHSw/giphy.gif" alt="raccoon hug"/>
+  <img height="150" src="https://media.giphy.com/media/2zoLgckxd9FxDgx6gD/giphy.gif" alt="fluffy raccoon"/>
+  <img height="150" src="https://media.giphy.com/media/3d78jQ2gNDv3AqfSiI/giphy.gif" alt="dessert thief raccoon"/>
+</p>
+<p align="center">
+  <img height="150" src="https://media.giphy.com/media/RXw0okEq6FL1DWWAtA/giphy.gif" alt="cool cartoon raccoon"/>
+  <img height="150" src="https://media.giphy.com/media/X1fikdyut2uv6/giphy.gif" alt="raccoon gang eating"/>
+  <img height="150" src="https://media.giphy.com/media/ZJPSFNLmADueHvzoZ8/giphy.gif" alt="moody raccoon"/>
+</p>
+
+<p align="center"><i>Trash pandas > everything. Steal the code, not the trash. 🦝⚡</i></p>
 
 ---
 
