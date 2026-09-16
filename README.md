@@ -17,11 +17,10 @@
   </a>
 </p>
 
-<!-- ===================== RACCOON HERO ===================== -->
+<!-- ===================== RACCOON GIF ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif" width="240" alt="scheming raccoon"/>
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="220" alt="raccoon"/>
 </p>
-<p align="center"><i>trash panda scheming your next commit</i> 🦝</p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
