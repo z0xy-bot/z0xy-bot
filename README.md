@@ -69,18 +69,30 @@ const z0xy = {
 
 ## <img src="https://media.giphy.com/media/hqAB4L4Zg3Ww2C1U/giphy.gif" width="30"> Статистика
 
+<!-- shields.io badges (100% надёжные) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=z0xy-bot&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00d4&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0xy-bot&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=c9d1d9"/>
+  <img src="https://img.shields.io/github/followers/z0xy-bot?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00f0ff&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/github/stars/z0xy-bot?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=ff00d4&labelColor=0f0c29"/>
 </p>
 
+<!-- profile summary cards, тема 2077 (киберпанк) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z0xy-bot&theme=2077" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z0xy-bot&theme=2077" alt="top languages"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z0xy-bot&theme=2077" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z0xy-bot&theme=2077" alt="stats"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z0xy-bot&theme=2077&utcOffset=5" alt="productive time"/>
+</p>
+
+<!-- streak (работает) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=z0xy-bot&theme=radical&hide_border=true&background=0D1117&ring=00f0ff&fire=ff00d4&currStreakLabel=00f0ff" alt="streak"/>
-</p>
-
-<!-- ===================== TROPHIES ===================== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=z0xy-bot&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
 </p>
 
 ---
